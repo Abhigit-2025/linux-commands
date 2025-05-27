@@ -3,4 +3,5 @@ basic commands for linux
 2.mkdir -make directry
 3.pwd -present working directry
 4.cd - change directry ex- cd (name of file)
-cat -(concatenate)
+5.cat -(concatenate) ex- cat myfile.txt displays the contents of "myfile.txt". 
+
