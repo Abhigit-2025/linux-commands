@@ -4,4 +4,56 @@ basic commands for linux
 3.pwd -present working directry
 4.cd - change directry ex- cd (name of file)
 5.cat -(concatenate) ex- cat myfile.txt displays the contents of "myfile.txt". 
-
+6.rmdir -Removes empty directories from the directory lists.
+7.cp -Copy files from one directory to another.
+8.mv -Copy files from one directory to another.
+9. ls command in Linux
+Displays information about files in the current directory.
+10. pwd command in Linux
+Displays the current working directory.
+11 mkdir command in Linux
+Creates a directory.
+12 cd command in Linux
+To navigate between different folders.
+13rmdir command in Linux
+Removes empty directories from the directory lists.
+14. cp command in Linux
+Copy files from one directory to another.
+15 mv command in Linux
+Rename and Replace the files
+16 rm command in Linux
+Delete files
+17 uname command in Linux
+Command to get basic information about the OS
+18. locate command in Linux
+Find a file in the database.
+19. touch command in Linux
+Create empty files
+20. ln command in Linux
+Create shortcuts to other files
+21. cat command in Linux
+Display file contents on terminal
+22. clear command in Linux
+Clear terminal 
+23. ps command in Linux
+Display the processes in terminal
+24. man command in Linux
+Access manual for all Linux commands
+17. grep command in Linux
+Search for a specific string in an output
+18. echo command in Linux
+Print string or text to the terminal
+19. wget command in Linux
+download files from the internet.
+20. whoami command in Linux
+Displays the current users name
+21. sort command in Linux
+sort the file content
+22. cal command in Linux
+View Calendar in terminal
+23. whereis command in Linux
+View the exact location of any command typed after this command
+24. df command in Linux
+Check the details of the file system
+25. wc command in Linux
+Check the lines, word count, and characters in a file using different options
